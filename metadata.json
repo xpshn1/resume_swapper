@@ -1,0 +1,5 @@
+{
+  "name": "Data Engineer Resume Specialist",
+  "description": "An AI-powered application that specializes in tailoring Data Engineering resumes. It rewrites work experience, provides an ATS alignment score, and helps you land your next data role using a simulated multi-agent system powered by the Gemini API.",
+  "requestFramePermissions": []
+}
